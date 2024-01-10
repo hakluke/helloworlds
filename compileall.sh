@@ -10,3 +10,4 @@ gcc ./helloworld.c -o ./compiled/helloworldc
 javac -d ./compiled/ HelloWorld.java 
 nasm -f elf helloworld.asm -o ./compiled/helloworld.o
 ld ./compiled/helloworld.o -o ./compiled/helloworld
+ocamlc helloworld.ml -o helloml

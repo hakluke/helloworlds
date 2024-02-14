@@ -1,0 +1,3 @@
+% Hello World in ZIM (database and development language)
+
+out "Hello World"
